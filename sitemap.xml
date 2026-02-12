@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://setpilot.app</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://setpilot.app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://setpilot.app/fr/" />
+  </url>
+
+  <url>
+    <loc>https://setpilot.app/fr</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://setpilot.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://setpilot.app/" />
+  </url>
+
+  <url>
+    <loc>https://setpilot.app/privacy-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://setpilot.app/privacy-policy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://setpilot.app/fr/politique-de-confidentialite" />
+  </url>
+
+  <url>
+    <loc>https://setpilot.app/fr/politique-de-confidentialite</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://setpilot.app/fr/politique-de-confidentialite" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://setpilot.app/privacy-policy" />
+  </url>
+
+  <url>
+    <loc>https://setpilot.app/terms-of-use</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://setpilot.app/terms-of-use" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://setpilot.app/fr/conditions-d-utilisation" />
+  </url>
+
+  <url>
+    <loc>https://setpilot.app/fr/conditions-d-utilisation</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://setpilot.app/fr/conditions-d-utilisation" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://setpilot.app/terms-of-use" />
+  </url>
+</urlset>
